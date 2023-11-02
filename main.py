@@ -226,7 +226,7 @@ def get_args():
 
 def main(opt):
     output_name = opt.output
-    output_path = output_name
+    output_path = os.path.join('/content', output_name)
 
     print("Start!")
 
