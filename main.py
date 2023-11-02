@@ -20,8 +20,14 @@ import imagesize
 YOLO_DARKNET_SUB_DIR = "YOLO_darknet"
 
 classes = [
-    "matricula",
-    "cara"
+    "농어",
+    "베스",
+    "숭어",
+    "강준치",
+    "블루길",
+    "잉어",
+    "붕어",
+    "누치"
 ]
 
 
