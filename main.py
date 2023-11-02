@@ -11,7 +11,7 @@ import argparse
 import json
 import numpy as np
 import imagesize
-
+import os
 #################################################
 # Change the classes depend on your own dataset.#
 # Don't change the list name 'Classes'          #
